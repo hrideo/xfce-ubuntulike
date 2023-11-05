@@ -12,7 +12,8 @@ yaru-theme-icon
 ```
 
 ### Panel Profile
-Panel profile is [Ubuntu-hrideo](../blob/main/.local/share/xfce4-panel-profiles/ubuntu-hrideo.tar.bz2), which is modified by [me], as per the looks of Ubuntu.
+Panel profile is [Ubuntu-hrideo](../blob/main/.local/share/xfce4-panel-profiles/ubuntu-hrideo.tar.bz2), by [me].
+It is a heavily modified version of a profile as per the looks of Ubuntu.
 
 The original profile is [Unity] by [mamgodev]
 
